@@ -1,5 +1,7 @@
 # cReverb
 
+<p align="center"><img src="cReverb.png"></p>
+
 ## Overview
 
 cReverb is a reverb audio effect plugin available in VST3, AU, and CLAP formats for Mac and Windows, built using C++ and JUCE.
